@@ -1,0 +1,41 @@
+body {
+    font-family: 'Hind', sans-serif;
+    margin-top: 20px;
+}
+
+h2 {
+    margin-top: 40px;
+}
+
+
+.header p {
+    font-size: 25px;
+}
+
+.current-weather{
+text-align: center;
+padding:0;
+}
+
+.celsius, .fahr{
+    font-size: 20px;
+}
+.current-time, .current-city, .temp-integer{
+    font-size: 25px;
+}
+
+.forecast .card-body {
+    text-align: center;
+}
+
+i {
+    font-size: 90px;
+    margin-bottom: 30px;
+    color: rgba(230, 84, 193, 0.932);
+}
+
+footer {
+    text-align: center;
+    margin: 50px 0;
+
+}
